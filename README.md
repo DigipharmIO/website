@@ -1,3 +1,3 @@
 # website
 Digipharm Website
-Information coming soon
+Information coming soon.
